@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using LiteDB;
+using Microsoft.AspNetCore.Mvc;
+using aspwebapi.Database;
 
 namespace aspwebapi.Controllers
 {
@@ -10,21 +12,23 @@ namespace aspwebapi.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2" };
+           return new string[] { "value1", "value2" };
         }
 
         // GET api/values/5
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return "value";
+            return id.ToString();
         }
-
+        
         // POST api/values
         [HttpPost]
-        public void Post([FromBody] string value)
+        public ActionResult<string> Post([FromBody] string value)
         {
-
+            return value;
+           // var User = new UserDatabase(1, "asd", "asd", "asd");
+           // return User;
         }
 
         // PUT api/values/5
