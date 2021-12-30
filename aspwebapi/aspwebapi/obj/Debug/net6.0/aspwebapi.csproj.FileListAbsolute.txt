@@ -25,3 +25,4 @@ C:\Users\pc\Desktop\aspwebapi\aspwebapi\aspwebapi\aspwebapi\obj\Debug\net6.0\asp
 C:\Users\pc\Desktop\aspwebapi\aspwebapi\aspwebapi\aspwebapi\obj\Debug\net6.0\ref\aspwebapi.dll
 C:\Users\pc\Desktop\aspwebapi\aspwebapi\aspwebapi\aspwebapi\obj\Debug\net6.0\aspwebapi.pdb
 C:\Users\pc\Desktop\aspwebapi\aspwebapi\aspwebapi\aspwebapi\obj\Debug\net6.0\aspwebapi.genruntimeconfig.cache
+C:\Users\pc\Desktop\aspwebapi\aspwebapi\aspwebapi\aspwebapi\bin\Debug\net6.0\LiteDB.dll

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "d+eGQBYgJf/L17ohYjYHSRxduWz6WVQeMxsTT5cPOR+X7txySOMlZFThpCUcitKZT/esfiDrXv23Z8qZmnpPGQ==",
+  "dgSpecHash": "HIO3keCDUs+iMcioUQqfisqUsBiSOatQNR/jXM3kE5f4+P+4QZCwHnk5K+7+YM1NV5lwUKiBXgXgvK0SIj8UzA==",
   "success": true,
   "projectFilePath": "C:\\Users\\pc\\Desktop\\aspwebapi\\aspwebapi\\aspwebapi\\aspwebapi\\aspwebapi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\litedb\\5.0.11\\litedb.5.0.11.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
